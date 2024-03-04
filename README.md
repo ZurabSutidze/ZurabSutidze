@@ -50,7 +50,7 @@
 </a> 
 
 </p>
-<div class="flex flex-row w-[700px]"> 
+<div class="flex flex-row w-3/6"> 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zurabsutidze&show_icons=true&locale=en" alt="zurabsutidze" />
 </p>
 
