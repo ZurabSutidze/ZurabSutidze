@@ -56,7 +56,7 @@
 
 </p>
 
-<div class="flex flex-row w-800">
+<div class="flex flex-row w-[1000px]">
   <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=zurabsutidze&show_icons=true&locale=en&theme=tokyonight" alt="zurabsutidze" /></p>
   
   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zurabsutidze&&theme=tokyonight" alt="zurabsutidze" /></p>
