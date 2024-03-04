@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Zurab Sutidze</h1>
 <h3 align="center">Still Learning Front-end , Back-end .</h3>
-
+<img src="https://camo.githubusercontent.com/a5ef8f892a2bc5fdbaa7f3787c40042729a15948cf94c70c3c0fa38a82d71b37/68747470733a2f2f77616c6c70617065726163636573732e636f6d2f66756c6c2f383335313135362e676966"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zurabsutidze&label=Profile%20views&color=0e75b6&style=flat" alt="zurabsutidze" /> </p>
 
 - 🌱 I’m currently learning **at company Re:Edu**
