@@ -50,7 +50,7 @@
 </a> 
 
 </p>
-<div class="flex flex-row w-full"> 
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zurabsutidze&show_icons=true&locale=en" alt="zurabsutidze" /></p> <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zurabsutidze&" alt="zurabsutidze" /></p>
 
 
@@ -58,4 +58,4 @@
 <p>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zurabsutidze&show_icons=true&locale=en&layout=compact" alt="zurabsutidze" />
 </p>
-<div/>
+
