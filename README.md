@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **zuka.sutidze@gmail.com**
 
-- ⚡ Fun fact **I love writing codes and dancing with them**
+- ⚡ Fun fact **Still in 11th grade ^^**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
