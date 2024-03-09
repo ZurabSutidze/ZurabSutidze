@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **zuka.sutidze@gmail.com**
 
-- ⚡ Fun fact **Still in 11th grade , trying my best ^^**
+- ⚡ Fun fact **Still in 11th grade , trying my best ^**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
